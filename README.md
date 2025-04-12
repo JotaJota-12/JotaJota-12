@@ -1,31 +1,40 @@
-# 👨‍💻 João Victor A. de Abreu
+# 👋 Olá! Seja bem-vindo(a) ao meu GitHub
 
-🎓 Estudante de Ciência da Computação | 💻 Explorando o mundo da programação com C e Python
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" alt="GIF de tecnologia e programação" />
 
-## 📌 Sobre mim
+## Sobre mim
 
-Olá! Meu nome é João Victor, tenho 18 anos e sou estudante de Ciência da Computação.  
-Sou curioso por natureza e apaixonado por aprender como a tecnologia funciona por trás dos bastidores. No momento, estou focado em construir uma base sólida em lógica de programação, algoritmos e estrutura de dados.
+Meu nome é João Victor Alves de Abreu, tenho 18 anos e atualmente sou estudante de Ciência da Computação. Estou no início da minha jornada acadêmica e profissional, com grande interesse em desenvolvimento de software, lógica de programação e estruturas de dados.
 
-Gosto de desafios que me façam pensar e adoro entender como as coisas funcionam “por baixo do capô”.
-
-## 🚀 Tecnologias que estou aprendendo:
-
-- 🐍 Python
-- 💻 C
-
-## 🎯 Objetivos atuais
-
-- Aprimorar meus conhecimentos em C e Python
-- Me aprofundar em algoritmos e estruturas de dados
-- Desenvolver pequenos projetos para praticar a lógica de programação
-- Aprender Git e versionamento de código
-
-## 📬 Contato
-
-- Email: joaovictoralvesabreu0812@gmail.com
-- GitHub: https://github.com/JotaJota-12
+Atualmente, estou focado(a) no aprendizado das linguagens **Python** e **C**, buscando desenvolver uma base sólida que me permita evoluir como programador e futuramente atuar em projetos de maior complexidade.
 
 ---
 
-⭐ *Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios ou entrar em contato!*
+## 📚 Habilidades em desenvolvimento
+
+- Lógica de programação
+- Python (estrutura básica, automações, boas práticas)
+- Linguagem C (sintaxe, compilação e estrutura de dados)
+- Fundamentos de algoritmos
+- Git e GitHub
+
+---
+
+## 🎯 Objetivos
+
+- Aprimorar minha lógica de programação
+- Contribuir para projetos open source
+- Participar de projetos acadêmicos e extracurriculares
+- Evoluir continuamente em soft e hard skills
+
+---
+
+## 📫 Contato
+
+Caso queira trocar ideias, colaborar ou apenas conversar sobre tecnologia:
+
+- Email: [seuemail@email.com]
+- LinkedIn: [https://www.linkedin.com/in/jo%C3%A3o-victor-455208351/](https://www.linkedin.com/in/jo%C3%A3o-victor-455208351/)
+- Portfólio (em breve!)
+
+---
