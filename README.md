@@ -33,7 +33,7 @@ Atualmente, estou focado(a) no aprendizado das linguagens **Python** e **C**, bu
 
 Caso queira trocar ideias, colaborar ou apenas conversar sobre tecnologia:
 
-- Email: [seuemail@email.com]
+- Email: joaovictoralvesabreu0812@gmail.com
 - LinkedIn: - LinkedIn: [João Victor](https://www.linkedin.com/in/jo%C3%A3o-victor-455208351/)
 - Portfólio (em breve!)
 
