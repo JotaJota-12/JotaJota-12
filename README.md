@@ -37,12 +37,11 @@ Caso queira trocar ideias, colaborar ou apenas conversar sobre tecnologia:
 - LinkedIn: - LinkedIn: [João Victor](https://www.linkedin.com/in/jo%C3%A3o-victor-455208351/)
 - Portfólio (em breve!)
 ---
-## 🐍 Snake Game Preview
+## 🚀 Extras
 
-![snake-game-gif](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+Se você curte tecnologia, aqui vai um joguinho interativo que representa bem o espírito da programação e da resolução de problemas:
 
-Este é um projeto simples do clássico jogo da cobrinha que estou desenvolvendo enquanto aprendo lógica e JavaScript. Em breve, estará disponível aqui no GitHub com código aberto!
-
+[👉 CLIQUE AQUI - Game "Flexbox Froggy"](https://flexboxfroggy.com/) 🐸 — Um jogo divertido para aprender CSS Flexbox, perfeito para quem ama lógica!
 
 ---
 **Obrigado por visitar meu perfil!**
