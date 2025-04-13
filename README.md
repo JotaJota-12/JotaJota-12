@@ -1,7 +1,7 @@
 <h1 align="center">✨ João Victor ✨</h1>
 
 <p align="center">
-  🎓 Estudante de Ciência da Computação | 💡 Apaixonado por programação e tecnologia
+  🎓 Estudante de Ciência da Computação | 💡 Dedicado a desenvolver com ética, clareza e excelência
 </p>
 
 ---
@@ -46,22 +46,9 @@ Atualmente, estou focado no aprendizado das linguagens **Python** e **C**, busca
 
 ---
 
-## 📌 Valores e Ética
-
-- ✅ Respeito à propriedade intelectual e licenças de código aberto  
-- 🤝 Colaboração com empatia e respeito  
-- 📖 Aprendizado contínuo com responsabilidade  
-- 🧩 Clareza e organização em projetos
-
----
-
 ## 💬 Agradecimentos
 
 Agradeço por visitar meu perfil!  
 Se você compartilha dos mesmos interesses ou quer trocar ideias sobre tecnologia, **vamos conversar!** 🚀
 
 ---
-
-<p align="center">
-  ✨ _“Tecnologia com propósito e ética faz a diferença.”_ ✨
-</p>
