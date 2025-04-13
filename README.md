@@ -31,10 +31,10 @@ Atualmente, estou focado no aprendizado das linguagens **Python** e **C**, busca
 ## 📫 Contato e redes
 
 <div align="left">
-  <a href="https://www.instagram.com" target="_blank">
+  <a href="[https://www.instagram.com](https://www.instagram.com/the12.jota/)" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:seuemail@gmail.com" target="_blank">
+  <a href="mailto:joaovictoralvesabreu0812@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-455208351/" target="_blank">
