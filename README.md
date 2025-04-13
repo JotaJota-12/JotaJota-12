@@ -1,49 +1,67 @@
-# 👋 Olá! Seja bem-vindo(a) ao meu GitHub
+<h1 align="center">✨ João Victor ✨</h1>
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" alt="GIF de tecnologia e programação" />
-
-## 🧑‍💻 Sobre mim
-
-Meu nome é João Victor, tenho 18 anos e atualmente sou estudante de **Ciência da Computação**. Estou no início da minha jornada acadêmica e profissional, com grande interesse em desenvolvimento de software, lógica de programação e estruturas de dados.
-
-Atualmente, estou focado no aprendizado das linguagens **Python** e **C**, buscando desenvolver uma base sólida que me permita evoluir como programador e futuramente atuar em projetos de maior complexidade.
+<p align="center">
+  🎓 Estudante de Ciência da Computação | 💡 Apaixonado por programação e tecnologia
+</p>
 
 ---
 
-## 🚀 Tecnologias que estou aprendendo:
+## 👨‍💻 Sobre mim
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
-</p>
+Olá! Meu nome é **João Victor**, tenho 18 anos e atualmente sou estudante de **Ciência da Computação**.  
+Estou no início da minha jornada acadêmica e profissional, com grande interesse em:
+
+- 💻 Desenvolvimento de Software  
+- 🧠 Lógica de Programação  
+- 🧩 Estruturas de Dados  
+
+Atualmente, estou focado no aprendizado das linguagens **Python** e **C**, buscando desenvolver uma base sólida que me permita crescer como programador e, futuramente, atuar em projetos de maior complexidade e impacto.
 
 ---
 
 ## 🎯 Objetivos
 
-- Aprimorar minha lógica de programação  
-- Contribuir para projetos open source  
-- Participar de projetos acadêmicos e extracurriculares  
-- Evoluir continuamente em soft e hard skills  
+- 🚀 Aprimorar minha lógica de programação  
+- 🤝 Contribuir para projetos **Open Source**  
+- 📚 Participar de projetos acadêmicos e extracurriculares  
+- 🌱 Evoluir continuamente em **soft e hard skills**
 
 ---
 
-## 📫 Contato e redes
+## 🛠️ Tecnologias em Aprendizado
 
-<div align="left">
-  <a href="[https://www.instagram.com](https://www.instagram.com/the12.jota/)" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:joaovictoralvesabreu0812@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-455208351/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Badge"/>
+</p>
 
 ---
 
-## 🙏 Agradecimento
+## 🌐 Contato
 
-Obrigado por visitar meu perfil!
+<p>
+  📧 <a href="mailto:joaovictoralvesabreu0812@gmail.com"><b>Email</b></a> •  
+  💼 <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-455208351/"><b>LinkedIn</b></a>
+</p>
+
+---
+
+## 📌 Valores e Ética
+
+- ✅ Respeito à propriedade intelectual e licenças de código aberto  
+- 🤝 Colaboração com empatia e respeito  
+- 📖 Aprendizado contínuo com responsabilidade  
+- 🧩 Clareza e organização em projetos
+
+---
+
+## 💬 Agradecimentos
+
+Agradeço por visitar meu perfil!  
+Se você compartilha dos mesmos interesses ou quer trocar ideias sobre tecnologia, **vamos conversar!** 🚀
+
+---
+
+<p align="center">
+  ✨ _“Tecnologia com propósito e ética faz a diferença.”_ ✨
+</p>
