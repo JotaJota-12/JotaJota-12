@@ -1,58 +1,70 @@
-<h1 align="center"> João Victor </h1>
+<h1 align="center">João Victor Alves</h1>
+<h3 align="center">Estudante de Ciência da Computação | Aspirante a Desenvolvedor</h3>
 
 <p align="center">
-  🎓 Estudante de Ciência da Computação | 💡 Dedicado a desenvolver com ética, clareza e excelência
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-455208351/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:joaovictoralvesabreu0812@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 🚀 Perfil Profissional
 
-Olá! Meu nome é **João Victor**, tenho 18 anos e atualmente sou estudante de **Ciência da Computação**.  
-Estou no início da minha jornada acadêmica e profissional, com grande interesse em:
+Estudante dedicado de **Ciência da Computação** com sólida base em lógica de programação e entusiasmo por resolver problemas complexos. Características destacadas:
 
-- 💻 Desenvolvimento de Software  
-- 🧠 Lógica de Programação  
-- 🧩 Estruturas de Dados  
-
-Atualmente, estou focado no aprendizado das linguagens **Python** e **C**, buscando desenvolver uma base sólida que me permita crescer como programador e, futuramente, atuar em projetos de maior complexidade e impacto.
+- ✅ Comprometimento com aprendizado contínuo
+- ✅ Capacidade analítica desenvolvida através de estudos em estruturas de dados
+- ✅ Visão ética e colaborativa do desenvolvimento de software
 
 ---
 
-## 🎯 Objetivos
+## 🛠 Stack Técnica
 
-- 🚀 Aprimorar minha lógica de programação  
-- 🤝 Contribuir para projetos **Open Source**  
-- 📚 Participar de projetos acadêmicos e extracurriculares  
-- 🌱 Evoluir continuamente em **soft e hard skills**
-
----
-
-## 🛠️ Tecnologias em Aprendizado
-
+**Linguagens Principais:**
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Badge"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
 </p>
+
+**Em aprendizado:**
+- Fundamentos de algoritmos e complexidade
+- Boas práticas de desenvolvimento
+- Controle de versão (Git/GitHub)
 
 ---
 
-## 🌐 Contato
+## 🎯 Objetivos Profissionais
 
-<p>
-  📧 <a href="mailto:joaovictoralvesabreu0812@gmail.com"><b>Email</b></a> •  
-  💼 <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-455208351/"><b>LinkedIn</b></a>
-</p>
+- Desenvolver expertise em desenvolvimento backend
+- Contribuir para projetos open-source relevantes
+- Participar de programas de estágio para aplicar conhecimentos acadêmicos
+- Especializar-se em soluções escaláveis e de alta performance
 
 ---
 
-## 💬 Agradecimentos
+## 📚 Formação Acadêmica
 
-Agradeço por visitar meu perfil!  
-Se você compartilha dos mesmos interesses ou quer trocar ideias sobre tecnologia, **vamos conversar!** 🚀
+**Ciência da Computação**  
+*Universidade *FIAP* - 2025 a 2028 
+- Disciplinas relevantes: Algoritmos, Estruturas de Dados, Matemática Discreta
+- Membro ativo de grupos de estudo em programação competitiva
+
+---
+
+## 🌟 Por que me considerar?
+
+- **Adaptabilidade**: Capacidade de aprender novas tecnologias rapidamente
+- **Mentalidade de crescimento**: Busca constante por desafios e aperfeiçoamento
+- **Comprometimento**: Dedicado a entregar soluções com excelência técnica
 
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif" alt="Coding GIF" width="400"/>
+  <img src="https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif" width="400" alt="Coding Animation">
+  <br>
+  <em>Sempre buscando o próximo desafio de programação!</em>
 </p>
