@@ -1,4 +1,4 @@
-<h1 align="center">✨ João Victor ✨</h1>
+<h1 align="center"> João Victor </h1>
 
 <p align="center">
   🎓 Estudante de Ciência da Computação | 💡 Dedicado a desenvolver com ética, clareza e excelência
@@ -52,3 +52,7 @@ Agradeço por visitar meu perfil!
 Se você compartilha dos mesmos interesses ou quer trocar ideias sobre tecnologia, **vamos conversar!** 🚀
 
 ---
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif" alt="Coding GIF" width="400"/>
+</p>
